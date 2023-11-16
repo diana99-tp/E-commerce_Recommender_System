@@ -11,6 +11,8 @@ olist_orders_dataset.csv
 olist_products_dataset.csv
 product_category_name_translation.csv
 
+Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 # Tasks 
 The project involves completing the following tasks:
 Data processing: Clean and merge the dataset to prepare it for building the recommender system.
@@ -20,3 +22,4 @@ Sentiment analysis: Analyze customer reviews to extract additional intelligence 
 
 # Conclusion 
 This project demostrates the use of collaborative filtering to build a recommender system for an e-commerce platform. By evaluating the system using appropriate metrics, we can understand its strengths and weaknesses and improve its performance. Additionally, sentiment analysis can provide additional insights about the dataset and help improve the system further. 
+
